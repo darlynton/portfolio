@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+
+    <!-- Metas -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="My Portfolio">
+    <meta name="description" content="Darlynton Portfolio">
+    <meta name="author" content="">
+
+    <!-- Title  -->
+    <title>Darlynton</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/imgs/favicon.png">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Plugins -->
+    <link rel="stylesheet" href="assets/css/plugins.css">
+
+    <!-- Core Style Css -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+</head>

@@ -288,7 +288,7 @@ include("include/nav.php");?>
         <section class="section-padding sub-bg">
             <div class="container">
                 <div class="img mb-80">
-                    <img src="assets/imgs/about/journey-dark.png" alt="">
+                    <img src="assets/imgs/about/Journey-dark.png" alt="">
                 </div>
             </div>
         </section>
@@ -424,7 +424,7 @@ include("include/nav.php");?>
                     <div class="col-lg-6 md-mb50">
                         <div class="imgs mb-0">
                             <div class="img1 main-color3 wow fadeIn" data-wow-delay=".3s" style="margin-left: 0; width: 100%;">
-                                <img src="assets/imgs/about/card2.jpg" alt="">
+                                <img src="assets/imgs/about/Card2.jpg" alt="">
                             </div>
                             <!-- <div class="img2 wow fadeInLeft" data-wow-delay=".6s">
                                 <img src="assets/imgs/about/sq1.jpg" alt="">
@@ -549,7 +549,7 @@ include("include/nav.php");?>
                     <div class="col-lg-6 md-mb50">
                         <div class="imgs mb-0">
                             <div class="img1 main-color3 wow fadeIn" data-wow-delay=".3s" style="margin-left: 0; width: 100%; background:none !important;">
-                                <img src="assets/imgs/about/card3.jpg" alt="">
+                                <img src="assets/imgs/about/Card3.jpg" alt="">
                             </div>
                             <!-- <div class="img2 wow fadeInLeft" data-wow-delay=".6s">
                                 <img src="assets/imgs/about/sq1.jpg" alt="">
@@ -565,7 +565,7 @@ include("include/nav.php");?>
                     <div class="col-lg-6 md-mb50">
                         <div class="imgs mb-0">
                             <div class="img1 main-color3 wow fadeIn" data-wow-delay=".3s" style="margin-left: 0; width: 100%;">
-                                <img src="assets/imgs/about/card4.jpg" alt="">
+                                <img src="assets/imgs/about/Card4.jpg" alt="">
                             </div>
                             <!-- <div class="img2 wow fadeInLeft" data-wow-delay=".6s">
                                 <img src="assets/imgs/about/sq1.jpg" alt="">

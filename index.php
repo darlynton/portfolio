@@ -18,8 +18,13 @@ include("include/nav.php");?>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-around">
-                <div class="col-lg-3">
+            <div class="row justify-content-center">
+                <div class="col-lg-1">
+                    <div class="img">
+                        <!-- <img src="assets/imgs/freelancer/01.png" alt=""> -->
+                    </div>
+                </div>
+                <div class="col-lg-5">
                     <div class="pt-40">
                         <div class="info-item mb-80">
                             <h6>Expertise</h6>
@@ -31,12 +36,8 @@ include("include/nav.php");?>
                         </div>
                     </div>
                 </div>
+                
                 <div class="col-lg-5">
-                    <div class="img">
-                        <img src="assets/imgs/freelancer/01.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-3">
                     <div class="pt-40 text-right">
                         <div class="info-item d-flex align-items-center justify-content-end mb-80">
                             <h6 class="sub-title mr-10">Years <br> of Experience</h6>
@@ -49,6 +50,11 @@ include("include/nav.php");?>
                                 <a href="project-1.php">Explore</a>
                             </div>
                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-1">
+                    <div class="img">
+                        <!-- <img src="assets/imgs/freelancer/01.png" alt=""> -->
                     </div>
                 </div>
             </div>
@@ -196,7 +202,9 @@ include("include/nav.php");?>
                                 <div class="item mt-30">
                                     <div class="o-hidden">
                                         <div class="img imago wow">
+                                            <a href="project-1.php" class="">
                                             <img src="assets/imgs/background/project1.jpg" alt="" class="radius-10">
+                                            </a>
                                             <a href="project-1.php" class="tag">
                                                 <span>Digital Design</span>
                                             </a>
@@ -217,7 +225,31 @@ include("include/nav.php");?>
                                 <div class="item mt-30">
                                     <div class="o-hidden">
                                         <div class="img imago wow">
+                                            <a href="project-3.php" class="">
+                                            <img src="assets/imgs/freelancer/works/7.jpg" alt="" class="radius-10">
+                                            </a>
+                                            <a href="project-3.php" class="tag">
+                                                <span>Digital Design</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="cont mt-30 d-flex wow fadeIn" data-wow-delay=".4s">
+                                        <div>
+                                            <h6 class="line-height-1"><a href="project-3.php">InsightGuard</a></h6>
+                                        </div>
+                                        <div class="ml-auto">
+                                            <p class="fz-14">© 2025</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="item mt-30">
+                                    <div class="o-hidden">
+                                        <div class="img imago wow">
+                                            <a href="design-system.php" class="">
                                             <img src="assets/imgs/freelancer/works/6.jpg" alt="" class="radius-10">
+                                            </a>
                                             <a href="design-system.php" class="tag">
                                                 <span>Digital Design</span>
                                             </a>
@@ -232,27 +264,6 @@ include("include/nav.php");?>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <!-- <div class="item mt-30">
-                                    <div class="o-hidden">
-                                        <div class="img imago wow">
-                                            <img src="assets/imgs/freelancer/works/5.jpg" alt="" class="radius-10">
-                                            <a href="project-details1.html" class="tag">
-                                                <span>Branding</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="cont mt-30 d-flex wow fadeIn" data-wow-delay=".4s">
-                                        <div>
-                                            <h6 class="line-height-1"><a href="project-details1.html">Astra Brand
-                                                    Identity</a></h6>
-                                        </div>
-                                        <div class="ml-auto">
-                                            <p class="fz-14">© 2023</p>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -373,11 +384,11 @@ include("include/nav.php");?>
                                     <p class="fz-15 mt-10 wow fadeIn">If you would like to work with us or just want to
                                         get in
                                         touch, we’d love to hear from you!</p>
-                                    <div class="phone fz-30 fw-600 mt-30 underline">
+                                    <!-- <div class="phone fz-30 fw-600 mt-30 underline">
                                     <a href="#0">+44 7404 938 935</a>
-                                    </div>
+                                    </div> -->
                                 <div class="email fz-30 fw-600 mt-15 underline">
-                                    <a href="mailto:darlynton03@gmail.com">darlynton03@gmail.com</a>
+                                    <a href="mailto:darlynton03@gmail.com">Email</a>
                                 </div>
                                 <ul class="rest social-text d-flex mt-60">
                                     <!-- <li class="mr-30">
@@ -389,9 +400,9 @@ include("include/nav.php");?>
                                     <li class="mr-30">
                                         <a href="https://www.linkedin.com/in/darlynton03/" target="_blank">LinkedIn</a>
                                     </li>
-                                    <!-- <li>
-                                        <a href="#0">Instagram</a>
-                                    </li> -->
+                                    <li>
+                                        <a href="https://github.com/darlynton" target="_blank">Github</H1></a>
+                                    </li>
                                 </ul>
                                 </div>
                             </div>
